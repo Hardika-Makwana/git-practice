@@ -4,5 +4,6 @@ const dob = "01/01/2000";
 function sayName(){
     console.log(`My name is ${name1}`);
 }
-
-
+function newfn(){
+    console.log("This is a new function");
+}
