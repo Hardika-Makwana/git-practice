@@ -13,4 +13,5 @@ function newFeature(){
     crossOriginIsolated.log("Cross-origin isolation is enabled");
     console.log("This is a new feature b");
     console.log("This is a new feature c");
+    console.log("This is a new feature c");
 }
